@@ -66,7 +66,7 @@ List of tutorial participants
 - Kim Scott (MIT)
 - Ashley Thomas (MIT)
 - James Dunlea (Columbia University)
-- Bailey Immel (UW-Madison)
+- Bailey Immel (University of Wisconsin-Madison)
 
 .. _Github issues overview:
 
